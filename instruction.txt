@@ -1,2 +1,3 @@
 Use:
-ESP32-cam
+ESP32-cam,
+SDcard(32G, 64G or 128G are good to use), 
