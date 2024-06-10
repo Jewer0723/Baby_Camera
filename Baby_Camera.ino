@@ -8,8 +8,8 @@
 #include <Arduino.h>
 
 //區網帳密
-const char* ssid_STA = "oldman";        // 區域網路的名稱
-const char* password_STA = "opp549vx";  // 區域網路的密碼
+const char* ssid_STA = "YOUR_WIFI_SSID";        // 區域網路的名稱
+const char* password_STA = "YOUR_WIFI_PASSWORD";  // 區域網路的密碼
 
 /*//熱點帳密
 const char* ssid_AP = "BabyCam1";      // 熱點網路的名稱
