@@ -1,3 +1,6 @@
 Use:
 ESP32-cam,
 SDcard(32G, 64G or 128G are good to use), 
+
+Video Player:
+Please use MPC-HC
